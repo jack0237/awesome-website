@@ -4,7 +4,7 @@ awesome-websites [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ================================================
 
 
-a curated list of website with good design  per category .repository was made to help all web designers find inspiration
+A curated list of website with good design  per category .repository was made to help all web designers find inspiration
 - [gaming](#gaming)
 - [streaming](#streaming)
 - [cloud](#cloud)
@@ -12,6 +12,7 @@ a curated list of website with good design  per category .repository was made to
 - [store](#store)
 - [enterprise](#enterprise)
 - [e-commerce](#e-commerce)
+- [Web-design](#web-design)
 
 
 
@@ -33,7 +34,7 @@ ___
 - [google drive](https://drive.google.com/drive/my-drive)
 - [dopbox](https://www.dropbox.com/)
 
-## project
+## Project
 
 - [gtk](https://www.gtk.org/)
 - [Bootstrap](https://getbootstrap.com/)
@@ -45,7 +46,7 @@ ___
 ## store
 - [goole play store](https://play.google.com/)
 
-## enterprise
+## Enterprise
 - [microsoft](https://play.google.com/)
 - [nintendo](https://www.nintendo.com/)
 - [gnome](https://www.gnome.org/)
@@ -59,3 +60,5 @@ ___
 - [jumia](https://www.jumia.cm/)
 - [jowweb](https://www.jouwweb.nl/)
 
+## Web-design
+- [Uiverse.io](https://uiverse.io/buttons/)
